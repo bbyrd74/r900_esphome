@@ -1,4 +1,4 @@
-# ESPHome Neptune R900 external component (initial implementation)
+# ESPHome Neptune R900 external component using a CC1101 (initial implementation)
 
 Required YAML options:
 
