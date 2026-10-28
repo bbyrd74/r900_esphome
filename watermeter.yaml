@@ -22,7 +22,7 @@ wifi:
 
 logger:
   baud_rate: 115200
-  level: VERY_VERBOSE
+  level: INFO
 
 api:
   encryption:
